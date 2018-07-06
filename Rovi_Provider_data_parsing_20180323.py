@@ -2,7 +2,6 @@ import requests # http://pypi.python.org/pypi/requests
 import time
 #import datetime
 import json
-##adding a comment line to test multi sustem and multi-user secenario
 ######################
 PostalCodes = []
 RoviURL='http://api.rovicorp.com/TVlistings/v9/listings/services/postalcode/%s/info?countrycode=US&apikey=sz7xwh32bppm6jhseat4ma8h&sig=739e43cd-9b5f-4a76-a76c-a8fd7c7f0938'
